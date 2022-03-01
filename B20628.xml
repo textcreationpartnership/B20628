@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to his worthy friend, D.B.M. from Dr. Connor, member of the College of Physicians and  Royal Society</title>
+            <author>Connor, Bernard, 1666?-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20628</idno>
+            <idno type="STC">Wing C5890</idno>
+            <idno type="EEBO-CITATION">14871551</idno>
+            <idno type="OCLC">ocm 14871551</idno>
+            <idno type="VID">206117</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206117)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1567:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to his worthy friend, D.B.M. from Dr. Connor, member of the College of Physicians and  Royal Society</title>
+                  <author>Connor, Bernard, 1666?-1698.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Briscoe ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Miracles.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:206117:1"/>
+            <pb n="1" facs="tcp:206117:2" rendition="simple:additions"/>
+            <head>A LETTER TO His Worthy Friend, D.B.M. FROM Dr. <hi>CONNOR,</hi> Member of the <hi>College of Phyſicians</hi> &amp; <hi>Royal-Society,</hi> CONCERNING HIS <hi>Medicina Arcana de Myſtico Corporis Humani Statu:</hi> OR, A <hi>Latin</hi> TREATISE, in which he deſigns to Explain the MIRACLES relating to HUMAN BODIES, by the Principles of PHYSICK.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Preſume you have not forgot a late Diſcourſe, wherein you and I were engaged in the Defence of <hi>Miracles,</hi> againſt the Objections of ſome Perſons then preſent, who pretended they cou'd not conceive either the <hi>Poſſibility,</hi> or the <hi>Man<g ref="char:EOLhyphen"/>ner</hi> of them.</p>
+            <p>Theſe Objections, we looked upon as weak in them<g ref="char:EOLhyphen"/>ſelves, and ſeeming to imply, That either the Divine Omnipotence cou'd do nothing, but what their Facul<g ref="char:EOLhyphen"/>ties were capable to comprehend; or, that there was a neceſſity, that, to convince Unbelievers, to confirm ſome Important Truth, or to bring about ſome other great or weighty End, it were requiſite that God ſhou'd not only do a <hi>Miracle,</hi> but alſo ſhew them the <hi>Way</hi> and <hi>Manner</hi> how it was performed. We freely owned, That ſuch Operations as are looked upon as <hi>Miracles,</hi> thoſe eſpecially recorded in Scripture, cannot be performed by the Stated Laws of Nature, but immediately by a Supream Being, for ſome great Deſign.</p>
+            <p>This Anſwer, as being undeniably true, they cou'd not but admit; and tho' where the Relaters were of an Undoubted Credit and Veracity, they cou'd not but be<g ref="char:EOLhyphen"/>lieve thoſe Performances were Miraculous and Superna<g ref="char:EOLhyphen"/>tural; yet, for their clearer ſatisfaction, they deſired our further Thoughts concerning the <hi>Manner</hi> of ſuch Supernatural Effects.</p>
+            <p>This being above my Sphere, which reaches no fur<g ref="char:EOLhyphen"/>ther then <hi>Phyſick,</hi> or Nature in its ordinary Operations; wherein, however, I find matter more than ſufficient to employ all my Time and Thoughts, and wherein I plain<g ref="char:EOLhyphen"/>ly ſee the Exiſtence, and can never ſufficiently admire the conſtant Providence of a Deity; yet being willing to comply with their Deſires, I promiſed I wou'd give them what ſatisfaction I cou'd therein.</p>
+            <p>This, indeed, was not the firſt time the very ſame Difficulties had been propoſed in my hearing; for I had formerly diſcourſed with others, both in this and other Countries, upon the ſame Subject; and had ſome Years ago drawn up a rude Scheme of an Eſſay towards the clearing of this Point. But if this, or the like occaſion, had not put me upon reviewing this Paper, I might have never given my ſelf, or any Body elſe, the Trouble of Reading it. But having thus, unwarily, engaged my ſelf, I reſolved to reviſe this Deſign, and to give thoſe Perſons a ſight of it. This I did accordingly, and af<g ref="char:EOLhyphen"/>terwards ſhewed it to your ſelf, and to ſome other Friends.</p>
+            <p>They owned the Notions I advanced, and the Ways of Explication I propoſed, were new to them, and might be ſo to others; and tho' they were not, nor cou'd be convinced, that theſe were the very Ways of the Divine Proceedings, in the effecting of ſuch Opera<g ref="char:EOLhyphen"/>tions, yet they ſeemed inclinable to imagine, that upon theſe Principles, Miracles, and the Operations of them, were conceivable by ſuch as know any thing of the Na<g ref="char:EOLhyphen"/>ture and Laws of Motion.</p>
+            <p>This Communication of my Thoughts, gave occaſion to others to diſcourſe with me about them, and to deſire that if I did intend to publiſh them, I wou'd in the mean time, give them, at leaſt, the general Heads of my De<g ref="char:EOLhyphen"/>ſign.</p>
+            <p>This I was willing to have been excuſed in, as having not digeſted them into that order I might at laſt publiſh them in; and was willing to reſerve to my ſelf a Power of making what Additions or Retrenchments I ſhou'd afterwards think fit to make; but the Plan of the Eſſay happening not to be fully repreſented, and afterwards being worſe underſtood and commented upon; I at laſt reſolved to draw up the following Account of the Par<g ref="char:EOLhyphen"/>ticulars I therein conſider.</p>
+            <p>I endeavour, <hi>Sir,</hi> to make it no longer a Diffi<g ref="char:EOLhyphen"/>culty, to conceive, and make evident by Reaſon, and the Principles of Phyſick, I mean the Principles of Na<g ref="char:EOLhyphen"/>ture, all the Miracles related in Scripture, concerning Bodies, particularly the Human: I mean, ſuppoſing thoſe Miracles, to be true Matters of Fact, and all Matters of Fact, as well Natural, as Supernatural, to be immedi<g ref="char:EOLhyphen"/>ate Effects of a Supream Being, which muſt be granted; it is as eaſie to conceive the Manner how this Infinite Power may be apply'd to Bodies, to work Miracles, as
+<pb n="2" facs="tcp:206117:3"/>to produce the common Phoenomena of Nature. By this I hope to convince our <hi>Scepticks</hi> in Religion, the <hi>Deiſts,</hi> who muſt give their Aſſent, when they have the ſame evident Reaſon to conceive the Poſſibility, and conſe<g ref="char:EOLhyphen"/>quently to believe the Truth of ſuch Miracles, that are anthentically deliver'd to us, as they have to conceive that Straw can burn in a flaming Fire.</p>
+            <p>The Foundation I go upon, is the Structure of the Human Body, which I have often taken to pieces, by Anatomy, and reſolved into its Eſſential Elements, or Mi<g ref="char:EOLhyphen"/>nute Particles by Chymiſtry; for I find it as neceſſary to be acquainted with its Fabrick, to give an Account of the Miraculous States it is ſuppoſed to have been in Su<g ref="char:EOLhyphen"/>pernaturally, as it is to explain the Natural Effects com<g ref="char:EOLhyphen"/>monly produc'd in it: For want of a ſufficient Inſight in this Matter, ſeveral Divines of the latter Ages, have gi<g ref="char:EOLhyphen"/>ven very groſs Ideas of the Miracles they have pretend<g ref="char:EOLhyphen"/>ed to explain; and in ſeveral Places where I have been, I ſaw them, either through Ignorance, or for Intereſt, give out for Miracles, Phoenomen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that were only ſurprizing Effects of Natural Cauſes; which has given ſo great an Occaſion to <hi>Scepticiſm,</hi> and increate of <hi>De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi>
+            </p>
+            <p>Having laid down for my Baſis, the Structure of the Human body, as far as I cou'd diſcover from my Senſes, Anatomy, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, Microſcopes, and Experiments; I pro<g ref="char:EOLhyphen"/>ceed to examine, and endeavour to explain the different ways its Natural State is ſuppos'd to have been Superna<g ref="char:EOLhyphen"/>turally alter'd by an infinite Power: For, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing, that the Human Body is all Matter, and that all this Matter is nothing <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an Union of Particles, with Bulk, Figure, and reſpective <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ation, I thought that all the alterati<g ref="char:EOLhyphen"/>on that cou'd Sup<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>naturally happen to this Bulk, Figure, or Scituation, would be conceiv'd. But before I enter upon thoſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce Subjects, I find it firſt neceſſary to en<g ref="char:EOLhyphen"/>quire into the <hi>Cauſe, Nature,</hi> and <hi>Laws of Motion;</hi> becauſe Motion is the only true Cauſe of all Natural E<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>s; and the Suſpenſions of the Laws of this Motion, are the only Cauſes of all Supernatural Effects, or Mira<g ref="char:EOLhyphen"/>cles. I conceive the Laws of Motion can be ſuſpended three different ways, and by one or more of thoſe Laws of <hi>Suſpenſion,</hi> it is as eaſie to ſolve clearly all Miracles, as it is to explain the moſt evident Effects of Natural Cauſes, by the common Laws of Motion.</p>
+            <p>Though I mention, That all Miracles whatſoever can be eaſily reduc'd to ſome of the three Laws of Suſpenſion of Motion, notwithſtanding I do not deſign to ſpeak of all ſorts of Miracles, but of ſuch only as are moſt in diſpute among the I earned: Yet any underſtand<g ref="char:EOLhyphen"/>ing Man may eaſily make his Application, and reſolve all other Supernatural Effects into one or other of 'em. The Heads of my Diſcourſe, I think fit to lay down here in the ſame Order I deſign to treat of 'em. <hi>(viz.)</hi>
+            </p>
+            <p n="1">I. <hi>Of the Nature of a Body, particularly an Organi<g ref="char:EOLhyphen"/>cal one, where the Structure and Natural State of the Hu<g ref="char:EOLhyphen"/>man Body is explain'd.</hi>
+            </p>
+            <p n="2">II. <hi>How many ways the Natural State of the Human Body, is ſaid to have been Supernaturally alter'd.</hi>
+            </p>
+            <p n="3">III. <hi>Of the Laws of Motion, and of the three different Su<g ref="char:EOLhyphen"/>ſpenſions of the ſame, in order to explain all Miracles.</hi>
+            </p>
+            <p n="4">IV. <hi>How it can be conceived, that Water can be chan<g ref="char:EOLhyphen"/>ged into Wine.</hi>
+            </p>
+            <p n="5">V. <hi>How it can be conceiv'd, that a Human Body can <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Invulnerable, Immortal, and can live for ever without <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, as after the Reſurrection.</hi>
+            </p>
+            <p n="6">VI. <hi>How a Human <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ody can be conceived to be in a Fire without <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="7">VII. <hi>How we can conceive that an Army can p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs through the Sea without Drowning, or walk upon the Water with<g ref="char:EOLhyphen"/>out Sinking.</hi>
+            </p>
+            <p n="8">VIII. <hi>How it can be conceived, that a Man can have a Bloody S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat.</hi>
+            </p>
+            <p n="9">IX. <hi>Of the Different Ways a Human Body can come into the Word; where is given an Account of its Genera<g ref="char:EOLhyphen"/>tion by Concourſe of Man and Woman.</hi>
+            </p>
+            <p n="10">X. <hi>How are can conceive a Human Body can be form'd o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Woman without a Man, as</hi> Chriſt<hi>'s.</hi>
+            </p>
+            <p n="11">XI. <hi>How to conceive a Human Body to be made without Man or Woman, as</hi> Adam<hi>'s.</hi>
+            </p>
+            <p n="12">XII. <hi>How to conceive a Human Body Dead, ſome Ages ſince, to be brought to Life again, as in the Reſurrection.</hi>
+            </p>
+            <p n="13">XIII. <hi>How many ways it cannot be conceiv'd that a Hu<g ref="char:EOLhyphen"/>man Body can be Intire and Alive in two Places at the ſame time.</hi>
+            </p>
+            <p>Becauſe my deſign here is to explain all the Su<g ref="char:EOLhyphen"/>pernatural States that our Body is ſuppoſed to have been put into, and ſince its being in two Places at once, is the State the moſt diſputed and doubted of; I thought it convenient to examine the Reaſons of thoſe that aſſert it capable of being in ſeveral Places at once, to ſee whether they are reconcileable with our Senſes, and with the Nature and Structure of a Human Body, which is the chief Thing to be conſider'd. I find it im<g ref="char:EOLhyphen"/>poſſible to c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive, that a Human Body can be in two Places at the ſame time, after the manner they have hi<g ref="char:EOLhyphen"/>therto deſcri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d; ſince <hi>the ſame Human Body can never be in two Places at o<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> with the ſame Bulk, and with the ſame Quantity of Matter:</hi> Tho' it may be plainly con<g ref="char:EOLhyphen"/>ceived, that by a Supream Power, and in a particular manner, my Body, without, the <hi>Spirit,</hi> can be in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire, and Alive, with the ſame Structure, and with the ſame number of Organical Parts, tho' not with their uſual <hi>Dimenſions,</hi> in ſeveral Places at the ſame time. Yet ſince we have no evident Proof, or Experience, that any Hu<g ref="char:EOLhyphen"/>man Body has ever been thus multiplied; and becauſe from conceiving the Poſſibility of it, it is thought, Peo<g ref="char:EOLhyphen"/>ple may perhaps hereafter take occaſion to draw ſeve<g ref="char:EOLhyphen"/>ral Conſequences, that may be liable to dangerous Con<g ref="char:EOLhyphen"/>ſtructions, and lead into Erroneous Speculations, I am adviſed, and am willing to decline treating of this Sub<g ref="char:EOLhyphen"/>ject; having no mind to meddle with <hi>Scripture,</hi> or <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> being not my Province. Wherefore I will en<g ref="char:EOLhyphen"/>deavour only to explain thoſe Miracles that moſt Peo<g ref="char:EOLhyphen"/>ple agree upon, ſubmitting my Judgment to greater Capacities. For I have no other deſing in this Book, but to enquire how far we may look into, and confirm <hi>Su<g ref="char:EOLhyphen"/>pernatural Effects,</hi> relating to Bodies, by the Principles of <hi>Phyſick.</hi> Yet I do not think my other Occupations will permit me to get this ſmall Treatiſe ready for the Preſs, ſo ſoon as common Diſcourſe, and this notice of it, might otherwiſe ſeem to intimate.</p>
+            <p>I cou'd not, <hi>Sir,</hi> reſolve you the laſt time we were together, what you asked me about the <hi>Anatomy:</hi> but having thought of it ſince, I deſign not to make any more <hi>Demonſtrations</hi> and <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſcourſes</hi> of <hi>Anatomy,</hi> but I intend, this Winter, to try a great many <hi>Chymical,</hi> and <hi>Anatomical</hi> Experiments, to co firm the <hi>Natural Ac<g ref="char:EOLhyphen"/>count</hi> I have had the Oceaſion to give of the <hi>Structure, Functions,</hi> and <hi>Operations of the Human Body,</hi> in this City, and in both the Univerſities: Becauſe I have a mind to lay a Foundation of Experiments (ſince Expe<g ref="char:EOLhyphen"/>riments are the only Foundation we can ſurely build up<g ref="char:EOLhyphen"/>on in Phyſick) for my <hi>Occonomia Animalis,</hi> which I hope to be able to publiſh in few Years.</p>
+            <p>As for what we were talking about the <hi>Account of Po<g ref="char:EOLhyphen"/>land,</hi> I have put into ſome order, the Memoirs I have brought with me out of that Kingdom, and I deſign to publiſh ſoon an <hi>Hiſtorical Account of the Ancient and Pre<g ref="char:EOLhyphen"/>ſent State of</hi> Poland; with an Abridgment of the Lives, and of the moſt remarkable Actions of the Kings of that Country, from the Beginning of the Monarchy, to this preſent Election. I will inſert in it ſomething relating to the Dutchy of <hi>Curland;</hi> for I do not find that there is any tolerable Account of them hitherto publiſhed in our Tongue. But before I expoſe any thing to the <hi>Pub<g ref="char:EOLhyphen"/>lick Cenſure</hi> of the World, I ſhall firſt deſire your <hi>Opi<g ref="char:EOLhyphen"/>nion;</hi> knowing that your <hi>good Judgment</hi> can eaſily cor<g ref="char:EOLhyphen"/>rect the Overſights of</p>
+            <closer>
+               <dateline>
+                  <hi>London, Bow-ſtreet,</hi> 
+                  <date>
+                     <hi>Octob.</hi> 22. 1696.</date>
+               </dateline>
+               <signed>Your Faithful Friend, and Servant, <hi>B. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Sam. Briſcoe,</hi> at the Corner of <hi>Ruſſel-ſtreet, Covent-Garden,</hi> 1696.</p>
+            <pb facs="tcp:206117:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
